@@ -1,0 +1,54 @@
+body, html{
+    margin: 0%;
+    height: 100%;
+}
+body {
+    background-image: url(sport5.jpeg);
+    background-size: cover;
+    
+}
+nav{
+    text-align: right;
+    margin: 20px 10px;
+    font-size: 20px;
+}
+nav a{
+    background-color: rgb(233, 233, 25);
+    margin: 20px 10px;
+    font-size: 25;
+
+}
+.about{
+    text-align: center;
+    margin-top: 10%;
+}
+.about h1{
+    color: #181816d7;
+   font-family: fantasy;
+}
+.work{
+    text-align: center;
+}
+.work h1{
+    background-color: rgba(51, 46, 46, 0.473);
+    margin: 20px 10px;
+}
+.contact{
+    text-align: center;
+}
+.contact h1 {
+    background-color: rgba(51, 46, 46, 0.473);
+    margin: 20px 10px;
+}
+button{
+    background-color: rgb(236, 236, 14);
+    border: none;
+    padding: 5px 5px;
+}
+.tarifs{
+    text-align: center;
+}
+.tarifs h1{
+    background-color: rgba(51, 46, 46, 0.473);
+    margin: 20px 10px;
+}
